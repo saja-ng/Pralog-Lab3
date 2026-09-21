@@ -1,0 +1,23 @@
+?- father(ahmad, sara).
+true.
+
+?- father(ahmad, omar).
+true.
+
+?- mother(fatima, sara).
+true.
+
+?- mother(fatima, omar).
+true.
+
+?- brother(omar, sara).
+true.
+
+?- brother(omar, nora).
+true.
+
+?- sister(sara, omar).
+true.
+
+?- sister(nora, omar).
+true.
